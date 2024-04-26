@@ -1,0 +1,16 @@
+.mat-toolbar {
+  background-color: #1976d2; 
+  color: white;  
+  padding: 10px 20px;
+  margin-top: 20px; 
+}
+
+.logo {
+  display: inline-block;
+  height: 100%; 
+}
+
+.logo img {
+  height: 100%; 
+  width: auto; 
+}

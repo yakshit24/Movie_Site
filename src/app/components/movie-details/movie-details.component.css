@@ -1,0 +1,37 @@
+
+.movie-details {
+  display: flex;
+  flex-direction: row; 
+  justify-content: space-evenly;
+  padding: 20px; 
+}
+
+h2 {
+  color: #1976d2;;
+  margin-bottom: 20px; 
+  text-align: center;
+  padding-top: 50px;
+  font-weight: 1000;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+
+.poster img {
+  max-width: 100%; 
+  height: auto; 
+  margin-bottom: 20px; 
+  
+
+}
+
+.details {
+  padding-top: 40px;
+  width: 100%; 
+  padding-left: 80px;
+
+}
+
+.details p {
+  margin-bottom: 10px;
+  font-size: 15px;
+}
